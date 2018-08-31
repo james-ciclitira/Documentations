@@ -12,6 +12,7 @@ import Rows from '../components/System/Rows.js'
 import Dividers from '../components/System/Dividers.js'
 import List from '../components/System/List.js'
 import Footer from '../components/System/Footer.js'
+import Shadows from '../components/System/Shadows.js'
 
 
 const IndexPage = () => (
@@ -34,6 +35,7 @@ const IndexPage = () => (
     <Header/>
     <Rows/>
     <Dividers/>
+    <Shadows/>
     <List/>
     <Footer/>
 

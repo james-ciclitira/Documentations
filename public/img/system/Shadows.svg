@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="637px" height="1131px" viewBox="0 0 637 1131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Shadows</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="98.3132929%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#00E4CD" offset="0%"></stop>
+            <stop stop-color="#00B8E4" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="359" height="164" rx="8"></rect>
+        <filter x="-1.9%" y="-5.5%" width="103.9%" height="108.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="359" height="433" rx="12"></rect>
+        <filter x="-10.3%" y="-8.1%" width="120.6%" height="117.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="375" height="205"></rect>
+        <rect id="path-9" x="0" y="85" width="375" height="35"></rect>
+        <filter x="-0.1%" y="-0.7%" width="100.1%" height="101.4%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.803921569   0 0 0 0 0.803921569   0 0 0 0 0.803921569  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.780392157   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-11" x="8" y="8" width="327" height="152.711011" rx="8"></rect>
+        <filter x="-11.3%" y="-22.9%" width="122.6%" height="148.5%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="0" y="0" width="343" height="168" rx="8"></rect>
+        <path d="M8,0 L335,0 C339.418278,-8.11624501e-16 343,3.581722 343,8 L343,124 L0,124 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-15"></path>
+        <rect id="path-17" x="0" y="0.294921875" width="104" height="122.847936"></rect>
+        <polygon id="path-19" points="0 0.000823910933 19.7139822 0.000823910933 19.7139822 20.2037791 0 20.2037791"></polygon>
+    </defs>
+    <g id="Shadows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F8F7F5" x="0" y="0" width="637" height="1131"></rect>
+        <text id="Shadows…" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="46" y="76">Shadows… </tspan>
+        </text>
+        <g id="icons/common/more-vertical/white" transform="translate(376.000000, 829.000000)">
+            <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+            <path d="M12,14 C10.8954305,14 10,13.1045695 10,12 C10,10.8954305 10.8954305,10 12,10 C13.1045695,10 14,10.8954305 14,12 C14,13.1045695 13.1045695,14 12,14 Z M19,14 C17.8954305,14 17,13.1045695 17,12 C17,10.8954305 17.8954305,10 19,10 C20.1045695,10 21,10.8954305 21,12 C21,13.1045695 20.1045695,14 19,14 Z M5,14 C3.8954305,14 3,13.1045695 3,12 C3,10.8954305 3.8954305,10 5,10 C6.1045695,10 7,10.8954305 7,12 C7,13.1045695 6.1045695,14 5,14 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="evenodd" transform="translate(12.000000, 12.000000) rotate(90.000000) translate(-12.000000, -12.000000) "></path>
+        </g>
+        <text id="iOS-only-on-modals," font-family="TTNorms-Regular, TT Norms" font-size="20" font-weight="normal" fill="#7B7B7B">
+            <tspan x="46" y="134">iOS only on modals, call to actions and horizontal scroll</tspan>
+        </text>
+        <g id="Group" transform="translate(46.000000, 201.000000)">
+            <g id="Boundaries" transform="translate(179.500000, 82.000000) scale(1, -1) translate(-179.500000, -82.000000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="Close-Icon" transform="translate(327.000000, 12.000000)" fill="#FFFFFF">
+                <circle id="Icon" fill-opacity="0.32" cx="10" cy="10" r="10"></circle>
+                <path d="M13.6351123,7.58101632 C14.0321726,7.18395598 14.0300676,6.54973752 13.6375953,6.15726517 C13.2423867,5.76205657 12.6076878,5.7659045 12.2138441,6.15974819 L9.84754696,8.52604537 L7.48124979,6.15974819 C7.08418945,5.76268786 6.449971,5.76479281 6.05749864,6.15726517 C5.66229004,6.55247376 5.66613798,7.18717262 6.05998167,7.58101632 L8.42627884,9.94731349 L6.05998167,12.3136107 C5.66292133,12.710671 5.66502629,13.3448895 6.05749864,13.7373618 C6.45270724,14.1325704 7.0874061,14.1287225 7.48124979,13.7348788 L9.84754696,11.3685816 L12.2138441,13.7348788 C12.6109045,14.1319391 13.2451229,14.1298342 13.6375953,13.7373618 C14.0328039,13.3421532 14.028956,12.7074544 13.6351123,12.3136107 L11.2688151,9.94731349 L13.6351123,7.58101632 Z" id="Path"></path>
+            </g>
+            <g id="button" transform="translate(16.000000, 98.000000)">
+                <rect id="Button-Shape" fill="#FFFFFF" x="0" y="0" width="327" height="50" rx="25"></rect>
+                <text id="action" font-family="TTNorms-Medium, TT Norms" font-size="20" font-weight="400" line-spacing="24" fill="#00B8E4">
+                    <tspan x="77.7" y="32">Angaben ergänzen</tspan>
+                </text>
+            </g>
+            <text id="text-1" font-family="TTNorms-Regular, TT Norms" font-size="18" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                <tspan x="64" y="33">Um dein biologisches Alter zu </tspan>
+                <tspan x="64" y="55">berechnen, brauche ich noch </tspan>
+                <tspan x="64" y="77">ein paar Informationen.</tspan>
+            </text>
+            <g id="icons/tips/body-white" transform="translate(16.000000, 16.000000)">
+                <rect id="bounds" x="0" y="0" width="32" height="32"></rect>
+                <path d="M21.16531,9.33333333 L24,9.33333333 C26.209139,9.33333333 28,11.1241943 28,13.3333333 C28,15.5424723 26.209139,17.3333333 24,17.3333333 L22.6666667,17.3333333 L22.6666667,26.0740741 C22.6666667,27.8741133 21.4727593,29.3333333 20,29.3333333 L12,29.3333333 C10.5272407,29.3333333 9.33333333,27.8741133 9.33333333,26.0740741 L9.33333333,17.3333333 L8,17.3333333 C5.790861,17.3333333 4,15.5424723 4,13.3333333 C4,11.1241943 5.790861,9.33333333 8,9.33333333 L10.83469,9.33333333 C10.725004,8.90717344 10.6666667,8.46039943 10.6666667,8 C10.6666667,5.05448133 13.0544813,2.66666667 16,2.66666667 C18.9455187,2.66666667 21.3333333,5.05448133 21.3333333,8 C21.3333333,8.46039943 21.274996,8.90717344 21.16531,9.33333333 Z M12.4722341,12 L8,12 C7.26362033,12 6.66666667,12.5969537 6.66666667,13.3333333 C6.66666667,14.069713 7.26362033,14.6666667 8,14.6666667 L12,14.6666667 L12,25.3333333 C12,26.069713 12.5969537,26.6666667 13.3333333,26.6666667 C14.069713,26.6666667 14.6666667,26.069713 14.6666667,25.3333333 L14.6666667,20 L17.3333333,20 L17.3333333,25.3333333 C17.3333333,26.069713 17.930287,26.6666667 18.6666667,26.6666667 C19.4030463,26.6666667 20,26.069713 20,25.3333333 L20,14.6666667 L24,14.6666667 C24.7363797,14.6666667 25.3333333,14.069713 25.3333333,13.3333333 C25.3333333,12.5969537 24.7363797,12 24,12 L19.5277659,12 C18.5875883,12.8298179 17.3525953,13.3333333 16,13.3333333 C14.6474047,13.3333333 13.4124117,12.8298179 12.4722341,12 Z M16,5.33333333 C14.5272407,5.33333333 13.3333333,6.52724067 13.3333333,8 C13.3333333,9.47275933 14.5272407,10.6666667 16,10.6666667 C17.4727593,10.6666667 18.6666667,9.47275933 18.6666667,8 C18.6666667,6.52724067 17.4727593,5.33333333 16,5.33333333 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+        <g id="Group" transform="translate(46.000000, 396.000000)">
+            <mask id="mask-5" fill="white">
+                <use xlink:href="#path-4"></use>
+            </mask>
+            <g id="Alert-Background">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+            <g id="controls/buttons/flat-buttons/link" mask="url(#mask-5)" font-family="SFProText-Regular, SF Pro Text" font-size="17" font-weight="normal" letter-spacing="-0.409999996" line-spacing="22">
+                <g transform="translate(-8.000000, 375.000000)" id="Caption">
+                    <text>
+                        <tspan x="141.433633" y="30" fill="#00BFAC">I don't know</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Date-Picker" mask="url(#mask-5)">
+                <g transform="translate(-8.000000, 96.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Mask" stroke="none" fill="none"></g>
+                    <g id="row/_resources/divider" stroke="none" fill="none" mask="url(#mask-8)" fill-rule="evenodd">
+                        <g transform="translate(0.000000, 204.000000)" fill="#CDCDCD" id="Rectangle-13">
+                            <rect x="0" y="0.5" width="375" height="1"></rect>
+                        </g>
+                    </g>
+                    <g id="row/_resources/divider" stroke="none" fill="none" mask="url(#mask-8)" fill-rule="evenodd">
+                        <rect id="Rectangle-13" fill="#CDCDCD" x="0" y="0.5" width="375" height="1"></rect>
+                    </g>
+                    <g id="Lines" stroke="none" fill="none" mask="url(#mask-8)" fill-opacity="1">
+                        <use fill="black" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                    </g>
+                    <g id="Active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-8)" font-family="SFProText-Regular, SF Pro Text" font-size="23" font-weight="normal" letter-spacing="-0.200000003">
+                        <g transform="translate(117.000000, 89.000000)">
+                            <text id="March">
+                                <tspan x="0" y="22" fill="#353F41">March</tspan>
+                            </text>
+                            <text id="2018">
+                                <tspan x="104" y="22" fill="#353F41">2018</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Active-Copy" opacity="0.300000012" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-8)" font-family="SFProText-Regular, SF Pro Text" font-size="21" font-weight="normal" letter-spacing="-0.1826087">
+                        <g transform="translate(97.000000, 56.000000)">
+                            <text id="February">
+                                <tspan x="0" y="20" fill="#333333">February</tspan>
+                            </text>
+                            <text id="2017">
+                                <tspan x="124" y="20" fill="#333333">2017</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Active-Copy-4" opacity="0.300000012" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-8)" font-family="SFProText-Regular, SF Pro Text" font-size="21" font-weight="normal" letter-spacing="-0.1826087">
+                        <g transform="translate(139.000000, 122.000000)" id="April">
+                            <text>
+                                <tspan x="0" y="20" fill="#333333">April</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Active-Copy-5" opacity="0.300000012" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-8)" font-family="SFProText-Regular, SF Pro Text" font-size="19" font-weight="normal" letter-spacing="-0.1652174">
+                        <g transform="translate(147.000000, 150.000000)" id="May">
+                            <text>
+                                <tspan x="0" y="18" fill="#333333">May</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Active-Copy-6" opacity="0.300000012" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-8)" font-family="SFProText-Regular, SF Pro Text" font-size="17" font-weight="normal" letter-spacing="-0.1478261">
+                        <g transform="translate(145.000000, 177.000000)" id="June">
+                            <text>
+                                <tspan x="0" y="16" fill="#333333">June</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Active-Copy-2" opacity="0.300000012" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-8)" font-family="SFProText-Regular, SF Pro Text" font-size="19" font-weight="normal" letter-spacing="-0.1652174">
+                        <g transform="translate(114.000000, 32.000000)">
+                            <text id="January">
+                                <tspan x="0" y="18" fill="#333333">January</tspan>
+                            </text>
+                            <text id="2016">
+                                <tspan x="107" y="18" fill="#333333">2016</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Active-Copy-3" opacity="0.300000012" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-8)" font-family="SFProText-Regular, SF Pro Text" font-size="17" font-weight="normal" letter-spacing="-0.1478261">
+                        <g transform="translate(102.000000, 8.000000)">
+                            <text id="December">
+                                <tspan x="0" y="16" fill="#333333">December</tspan>
+                            </text>
+                            <text id="2015">
+                                <tspan x="119" y="16" fill="#333333">2015</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Buttons" mask="url(#mask-5)">
+                <g transform="translate(24.000000, 317.000000)" id="Action">
+                    <g>
+                        <rect id="Rectangle-8" fill="#03D4BF" x="0" y="0" width="311" height="50" rx="25"></rect>
+                        <text id="↳-Label" font-family="TTNorms-Medium, TT Norms" font-size="20" font-weight="400" line-spacing="24" fill="#FFFFFF">
+                            <tspan x="133.65" y="32">Save</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <text id="Title" mask="url(#mask-5)" font-family="TTNorms-Medium, TT Norms" font-size="21" font-weight="400" line-spacing="24" fill="#353F41">
+                <tspan x="24" y="44">When was the last time you had </tspan>
+                <tspan x="24" y="68">this checkup?</tspan>
+            </text>
+        </g>
+        <g id="Group-6-Copy" transform="translate(57.000000, 884.000000)">
+            <g id="shadow" fill="black" fill-opacity="1">
+                <use filter="url(#filter-12)" xlink:href="#path-11"></use>
+            </g>
+            <mask id="mask-14" fill="white">
+                <use xlink:href="#path-13"></use>
+            </mask>
+            <use id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-13"></use>
+            <g id="Group-6" mask="url(#mask-14)">
+                <g transform="translate(0.000000, 122.000000)">
+                    <rect id="Rectangle-3" fill-rule="nonzero" x="0" y="0" width="343" height="46"></rect>
+                    <text id="Los-geht’s" font-family="TTNorms-Medium, TT Norms" font-size="18" font-weight="400" line-spacing="22">
+                        <tspan x="16" y="29" fill="#00BFAC">Los geht’s</tspan>
+                    </text>
+                </g>
+            </g>
+            <mask id="mask-16" fill="white">
+                <use xlink:href="#path-15"></use>
+            </mask>
+            <use id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-15"></use>
+            <g id="banner-image" mask="url(#mask-16)">
+                <g transform="translate(239.000000, 0.000000)">
+                    <mask id="mask-18" fill="white">
+                        <use xlink:href="#path-17"></use>
+                    </mask>
+                    <g id="Mask" stroke="none" fill="none"></g>
+                    <g id="Group-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-18)">
+                        <g transform="translate(17.000000, 25.718890)">
+                            <g id="Sticker-illustration" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.153600, 4.490061)">
+                                <g id="icons/common/qr-code" transform="translate(5.897726, 0.986326)">
+                                    <rect id="bounds" fill="#BADCDF" x="2" y="2" width="60.4131367" height="60.4131367"></rect>
+                                    <rect id="bounds" stroke="#BADCDF" fill="#FFFFFF" x="0" y="0" width="60.4131367" height="60.4131367"></rect>
+                                    <path d="M42.7852648,27.6893543 C44.1795561,27.6893543 45.3098525,28.8066571 45.3098525,30.2065684 C45.3098525,31.5967873 44.1808064,32.7237824 42.7852648,32.7237824 L30.2139421,32.7237824 C28.8196508,32.7237824 27.6893543,31.6064796 27.6893543,30.2065684 L27.6893543,20.1372277 C27.6893543,18.7472764 28.8066571,17.6204982 30.2065684,17.6204982 C31.5967873,17.6204982 32.7237824,18.737428 32.7237824,20.1372277 L32.7237824,27.6893543 L42.7852648,27.6893543 Z M50.3442806,45.3098525 L50.3442806,37.7507347 C50.3442806,36.3646445 51.4615834,35.2409964 52.8614946,35.2409964 C54.2517136,35.2409964 55.3787087,36.3668377 55.3787087,37.7507347 L55.3787087,52.8689704 C55.3787087,54.2550606 54.2614059,55.3787087 52.8614946,55.3787087 C51.4712757,55.3787087 50.3442806,54.2528674 50.3442806,52.8689704 L50.3442806,50.3442806 L45.3098525,50.3442806 L45.3098525,52.8507585 C45.3098525,54.2469068 44.1925498,55.3787087 42.7926385,55.3787087 C41.4024196,55.3787087 40.2754245,54.2435076 40.2754245,52.8507585 L40.2754245,50.3442806 L37.7507347,50.3442806 C36.3646445,50.3442806 35.2409964,49.2269779 35.2409964,47.8270666 C35.2409964,46.4368477 36.3668377,45.3098525 37.7507347,45.3098525 L40.2754245,45.3098525 L40.2754245,42.8033747 C40.2754245,41.4072263 41.3927272,40.2754245 42.7926385,40.2754245 C44.1828574,40.2754245 45.3098525,41.4106255 45.3098525,42.8033747 L45.3098525,45.3098525 L50.3442806,45.3098525 Z M5.03442806,7.54416632 C5.03442806,6.15807615 6.16026935,5.03442806 7.54416632,5.03442806 L22.6624021,5.03442806 C24.0484922,5.03442806 25.1721403,6.16026935 25.1721403,7.54416632 L25.1721403,22.6624021 C25.1721403,24.0484922 24.046299,25.1721403 22.6624021,25.1721403 L7.54416632,25.1721403 C6.15807615,25.1721403 5.03442806,24.046299 5.03442806,22.6624021 L5.03442806,7.54416632 Z M35.2409964,7.54416632 C35.2409964,6.15807615 36.3668377,5.03442806 37.7507347,5.03442806 L52.8689704,5.03442806 C54.2550606,5.03442806 55.3787087,6.16026935 55.3787087,7.54416632 L55.3787087,22.6624021 C55.3787087,24.0484922 54.2528674,25.1721403 52.8689704,25.1721403 L37.7507347,25.1721403 C36.3646445,25.1721403 35.2409964,24.046299 35.2409964,22.6624021 L35.2409964,7.54416632 Z M5.03442806,37.7507347 C5.03442806,36.3646445 6.16026935,35.2409964 7.54416632,35.2409964 L22.6624021,35.2409964 C24.0484922,35.2409964 25.1721403,36.3668377 25.1721403,37.7507347 L25.1721403,52.8689704 C25.1721403,54.2550606 24.046299,55.3787087 22.6624021,55.3787087 L7.54416632,55.3787087 C6.15807615,55.3787087 5.03442806,54.2528674 5.03442806,52.8689704 L5.03442806,37.7507347 Z M10.0688561,10.0688561 L10.0688561,20.1377122 L20.1377122,20.1377122 L20.1377122,10.0688561 L10.0688561,10.0688561 Z M40.2754245,10.0688561 L40.2754245,20.1377122 L50.3442806,20.1377122 L50.3442806,10.0688561 L40.2754245,10.0688561 Z M10.0688561,40.2754245 L10.0688561,50.3442806 L20.1377122,50.3442806 L20.1377122,40.2754245 L10.0688561,40.2754245 Z M5.03442806,30.2065684 C5.03442806,28.8163494 6.15173082,27.6893543 7.55164209,27.6893543 C8.94186101,27.6893543 10.0688561,28.8066571 10.0688561,30.2065684 C10.0688561,31.5967873 8.95155336,32.7237824 7.55164209,32.7237824 C6.16142317,32.7237824 5.03442806,31.6064796 5.03442806,30.2065684 Z M12.5860702,15.1032842 C12.5860702,13.7130653 13.7033729,12.5860702 15.1032842,12.5860702 C16.4935031,12.5860702 17.6204982,13.7033729 17.6204982,15.1032842 C17.6204982,16.4935031 16.5031955,17.6204982 15.1032842,17.6204982 C13.7130653,17.6204982 12.5860702,16.5031955 12.5860702,15.1032842 Z M27.6893543,37.7582105 C27.6893543,36.3679915 28.8062841,35.2409964 30.2060838,35.2409964 L37.758695,35.2409964 C39.1486463,35.2409964 40.2754245,36.3582992 40.2754245,37.7582105 C40.2754245,39.1484294 39.1584947,40.2754245 37.758695,40.2754245 L30.2060838,40.2754245 C28.8161325,40.2754245 27.6893543,39.1581217 27.6893543,37.7582105 Z M50.3442806,30.2065684 C50.3442806,28.8163494 51.4615834,27.6893543 52.8614946,27.6893543 C54.2517136,27.6893543 55.3787087,28.8066571 55.3787087,30.2065684 C55.3787087,31.5967873 54.2614059,32.7237824 52.8614946,32.7237824 C51.4712757,32.7237824 50.3442806,31.6064796 50.3442806,30.2065684 Z M27.6893543,52.8614946 C27.6893543,51.4712757 28.8066571,50.3442806 30.2065684,50.3442806 C31.5967873,50.3442806 32.7237824,51.4615834 32.7237824,52.8614946 C32.7237824,54.2517136 31.6064796,55.3787087 30.2065684,55.3787087 C28.8163494,55.3787087 27.6893543,54.2614059 27.6893543,52.8614946 Z M12.5860702,30.2065684 C12.5860702,28.8163494 13.7029999,27.6893543 15.1027996,27.6893543 L22.6554109,27.6893543 C24.0453622,27.6893543 25.1721403,28.8066571 25.1721403,30.2065684 C25.1721403,31.5967873 24.0552105,32.7237824 22.6554109,32.7237824 L15.1027996,32.7237824 C13.7128483,32.7237824 12.5860702,31.6064796 12.5860702,30.2065684 Z M12.5860702,45.3098525 C12.5860702,43.9196336 13.7033729,42.7926385 15.1032842,42.7926385 C16.4935031,42.7926385 17.6204982,43.9099413 17.6204982,45.3098525 C17.6204982,46.7000715 16.5031955,47.8270666 15.1032842,47.8270666 C13.7130653,47.8270666 12.5860702,46.7097638 12.5860702,45.3098525 Z M42.7926385,15.1032842 C42.7926385,13.7130653 43.9099413,12.5860702 45.3098525,12.5860702 C46.7000715,12.5860702 47.8270666,13.7033729 47.8270666,15.1032842 C47.8270666,16.4935031 46.7097638,17.6204982 45.3098525,17.6204982 C43.9196336,17.6204982 42.7926385,16.5031955 42.7926385,15.1032842 Z M27.6893543,7.54925244 C27.6893543,6.16035329 28.8066571,5.03442806 30.2065684,5.03442806 C31.5967873,5.03442806 32.7237824,6.1504429 32.7237824,7.54925244 L32.7237824,12.5884598 C32.7237824,13.977359 31.6064796,15.1032842 30.2065684,15.1032842 C28.8163494,15.1032842 27.6893543,13.9872693 27.6893543,12.5884598 L27.6893543,7.54925244 Z" id="Combined-Shape" fill="#575756"></path>
+                                </g>
+                                <g id="Group-3" transform="translate(0.016532, 32.705462)">
+                                    <mask id="mask-20" fill="white">
+                                        <use xlink:href="#path-19"></use>
+                                    </mask>
+                                    <g id="Clip-2"></g>
+                                </g>
+                            </g>
+                            <path d="M4.15359994,2.89509967 L4.15359994,13.8950997 C4.15359994,14.4473844 3.70588469,14.8950997 3.15359994,14.8950997 C2.60131519,14.8950997 2.15359994,14.4473844 2.15359994,13.8950997 L2.15359994,1.89509967 C2.15359994,1.34281492 2.60131519,0.895099674 3.15359994,0.895099674 L15.1535999,0.895099674 C15.7058847,0.895099674 16.1535999,1.34281492 16.1535999,1.89509967 C16.1535999,2.44738442 15.7058847,2.89509967 15.1535999,2.89509967 L4.15359994,2.89509967 Z" id="Rectangle" fill="#575756" fill-rule="nonzero"></path>
+                            <path d="M60.1535999,2.89509967 L60.1535999,13.8950997 C60.1535999,14.4473844 59.7058847,14.8950997 59.1535999,14.8950997 C58.6013152,14.8950997 58.1535999,14.4473844 58.1535999,13.8950997 L58.1535999,1.89509967 C58.1535999,1.34281492 58.6013152,0.895099674 59.1535999,0.895099674 L71.1535999,0.895099674 C71.7058847,0.895099674 72.1535999,1.34281492 72.1535999,1.89509967 C72.1535999,2.44738442 71.7058847,2.89509967 71.1535999,2.89509967 L60.1535999,2.89509967 Z" id="Rectangle-Copy" fill="#575756" fill-rule="nonzero" transform="translate(65.153600, 7.895100) scale(-1, 1) translate(-65.153600, -7.895100) "></path>
+                            <path d="M4.15359994,59.3950997 L4.15359994,70.3950997 C4.15359994,70.9473844 3.70588469,71.3950997 3.15359994,71.3950997 C2.60131519,71.3950997 2.15359994,70.9473844 2.15359994,70.3950997 L2.15359994,58.3950997 C2.15359994,57.8428149 2.60131519,57.3950997 3.15359994,57.3950997 L15.1535999,57.3950997 C15.7058847,57.3950997 16.1535999,57.8428149 16.1535999,58.3950997 C16.1535999,58.9473844 15.7058847,59.3950997 15.1535999,59.3950997 L4.15359994,59.3950997 Z" id="Rectangle" fill="#575756" fill-rule="nonzero" transform="translate(9.153600, 64.395100) rotate(-90.000000) translate(-9.153600, -64.395100) "></path>
+                            <path d="M60.1535999,70.3950997 C60.1535999,70.9473844 59.7058847,71.3950997 59.1535999,71.3950997 C58.6013152,71.3950997 58.1535999,70.9473844 58.1535999,70.3950997 L58.1535999,58.3950997 C58.1535999,57.8428149 58.6013152,57.3950997 59.1535999,57.3950997 L71.1535999,57.3950997 C71.7058847,57.3950997 72.1535999,57.8428149 72.1535999,58.3950997 C72.1535999,58.9473844 71.7058847,59.3950997 71.1535999,59.3950997 L60.1535999,59.3950997 L60.1535999,70.3950997 Z" id="Rectangle-Copy" fill="#575756" fill-rule="nonzero" transform="translate(65.153600, 64.395100) scale(-1, 1) rotate(-90.000000) translate(-65.153600, -64.395100) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <text id="Body" mask="url(#mask-16)" font-family="TTNorms-Regular, TT Norms" font-size="15" font-weight="normal" line-spacing="20" fill="#575756">
+                <tspan x="16" y="60">Allow emergency personnel to </tspan>
+                <tspan x="16" y="80">scan your sticker and preview </tspan>
+                <tspan x="16" y="100">your Medical ID</tspan>
+            </text>
+            <text id="Title" mask="url(#mask-16)" font-family="TTNorms-Medium, TT Norms" font-size="17" font-weight="400" line-spacing="22" fill="#575756">
+                <tspan x="16" y="32">Emergency Sticker</tspan>
+            </text>
+            <g id="Dividers-/-Divider-375px" mask="url(#mask-16)" fill="#BCBBC1">
+                <g transform="translate(0.000000, 122.000000)" id="Rectangle">
+                    <rect x="0" y="0.5" width="343" height="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
