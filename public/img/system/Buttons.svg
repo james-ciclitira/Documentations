@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="637px" height="1497px" viewBox="0 0 637 1497" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Buttons</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="360" height="48"></rect>
+        <filter x="-1.0%" y="-9.4%" width="101.9%" height="114.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="88" height="40" rx="4"></rect>
+        <filter x="-6.8%" y="-10.0%" width="113.6%" height="130.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="88" height="40" rx="4"></rect>
+        <filter x="-6.8%" y="-10.0%" width="113.6%" height="130.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="311" height="50" rx="25"></rect>
+        <rect id="path-9" x="0" y="0" width="311" height="50" rx="25"></rect>
+        <rect id="path-11" x="0" y="0" width="144" height="50" rx="25"></rect>
+        <rect id="path-13" x="0" y="0" width="86" height="34" rx="17"></rect>
+        <rect id="path-15" x="0" y="0" width="163" height="50" rx="25"></rect>
+        <rect id="path-17" x="0" y="56.4910714" width="355" height="1"></rect>
+    </defs>
+    <g id="Buttons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F8F7F5" x="0" y="0" width="637" height="1497"></rect>
+        <text id="alignment" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="46" y="76">Buttons, buttons buttons </tspan>
+        </text>
+        <g id="button/flat/default" transform="translate(74.000000, 1183.000000)">
+            <rect id="button-bg" x="0" y="0" width="88" height="40" rx="4"></rect>
+            <text id="Normal" font-family="TTNorms-Bold, TT Norms" font-size="16" font-weight="bold" letter-spacing="0.5714285" fill="#00BFAC">
+                <tspan x="14.6857145" y="25">Normal</tspan>
+            </text>
+        </g>
+        <g id="button/flat/default-copy" transform="translate(209.000000, 1193.000000)" fill="#E94119" font-family="TTNorms-Bold, TT Norms" font-size="16" font-weight="bold" letter-spacing="0.5714285">
+            <text id="Destructive">
+                <tspan x="0.21714325" y="15">Destructive</tspan>
+            </text>
+        </g>
+        <g id="button/raised/bottom" transform="translate(82.000000, 1349.000000)">
+            <g id="button-bg">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#03D4BF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="ACTION" font-family="TTNorms-Bold, TT Norms" font-size="16" font-weight="bold" letter-spacing="0.5714285" fill="#FFFFFF">
+                <tspan x="76.7542865" y="30">Dokumentanfrage senden</tspan>
+            </text>
+        </g>
+        <g id="button/raised/defaullt" transform="translate(79.000000, 969.000000)">
+            <g id="button-bg">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#03D4BF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <text id="Normal" font-family="TTNorms-Bold, TT Norms" font-size="16" font-weight="bold" letter-spacing="0.5714285" fill="#FFFFFF">
+                <tspan x="14.6857145" y="26">Normal</tspan>
+            </text>
+        </g>
+        <g id="button/raised/defaullt-copy" transform="translate(210.000000, 969.000000)">
+            <g id="button-bg">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <text id="Normal" font-family="TTNorms-Bold, TT Norms" font-size="16" font-weight="bold" letter-spacing="0.5714285" fill="#03D4BF">
+                <tspan x="14.6857145" y="26">Normal</tspan>
+            </text>
+        </g>
+        <text id="alignment-copy" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="79" y="932">Primary</tspan>
+        </text>
+        <text id="alignment-copy-4" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="96" y="639">System </tspan>
+        </text>
+        <text id="alignment-copy-2" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="79" y="1113">Secondary / ghost</tspan>
+        </text>
+        <text id="alignment-copy-3" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="82" y="1284">Full width &amp; fixed</tspan>
+        </text>
+        <text id="Usage:-secondary-act" font-family="TTNorms-Regular, TT Norms" font-size="16" font-weight="normal" fill="#7B7B7B">
+            <tspan x="79" y="1145">Usage: secondary actions or Cards, Navbars, Links.. </tspan>
+        </text>
+        <text id="Usage:-screens-with" font-family="TTNorms-Regular, TT Norms" font-size="16" font-weight="normal" fill="#7B7B7B">
+            <tspan x="79" y="1316">Usage: screens with primary actions + high text</tspan>
+        </text>
+        <text id="Android-Copy" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="79" y="854">Android</tspan>
+        </text>
+        <text id="8-px" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="343.6" y="1008">8 px</tspan>
+        </text>
+        <text id="16-px" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="205.23" y="1051">16 px</tspan>
+        </text>
+        <path d="M324,990 L324,1019 M312,1019 L312,990" id="Rectangle-2-Copy-12" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero" transform="translate(318.500000, 1004.500000) scale(1, -1) rotate(-90.000000) translate(-318.500000, -1004.500000) "></path>
+        <path d="M224,1019 L224,1039 M209,1039 L209,1019" id="Rectangle-2-Copy-13" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero" transform="translate(217.000000, 1029.000000) scale(1, -1) rotate(-180.000000) translate(-217.000000, -1029.000000) "></path>
+        <text id="iOS-Copy" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="65" y="168">iOS</tspan>
+        </text>
+        <g id="controls/buttons/overrides/Main-Action/Active" transform="translate(91.000000, 219.000000)">
+            <g id="controls/buttons/overrides/Main-Action/Shape/Main">
+                <g id="Background-Color" stroke-width="1" fill-rule="evenodd">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-7"></use>
+                    <g id="brand/colors/primary" mask="url(#mask-8)" fill="#03D4BF">
+                        <rect id="Rectangle" x="0" y="0" width="311" height="50"></rect>
+                    </g>
+                </g>
+                <rect id="Boundaries" x="-16" y="-16" width="343" height="82"></rect>
+            </g>
+        </g>
+        <text id="Label" font-family="TTNorms-Medium, TT Norms" font-size="21" font-weight="400" line-spacing="24" fill="#FFFFFF">
+            <tspan x="205.97" y="251.63">Primary</tspan>
+        </text>
+        <g id="Group-7" transform="translate(69.000000, 288.000000)">
+            <rect id="Boundaries" fill="#FFFFFF" x="0" y="0" width="375" height="82"></rect>
+            <g id="Button" transform="translate(32.000000, 16.000000)">
+                <g id="controls/buttons/overrides/Secondary-Action/Active">
+                    <g id="controls/buttons/overrides/Main-Action/Shape/Main">
+                        <g id="Background-Color" stroke-width="1" fill-rule="evenodd">
+                            <mask id="mask-10" fill="white">
+                                <use xlink:href="#path-9"></use>
+                            </mask>
+                            <use id="Mask" fill="#FFFFFF" xlink:href="#path-9"></use>
+                            <g id="brand/colors/tertiary" mask="url(#mask-10)" fill="#F7F4ED">
+                                <rect id="Rectangle" x="0" y="0" width="311" height="50"></rect>
+                            </g>
+                        </g>
+                        <rect id="Boundaries" x="-16" y="-16" width="343" height="82"></rect>
+                    </g>
+                </g>
+                <text id="Caption" font-family="TTNorms-Regular, TT Norms" font-size="18" font-weight="normal" line-spacing="22" fill="#353F41">
+                    <tspan x="84.355" y="31">Secondary Action</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Button-No" transform="translate(74.000000, 399.000000)">
+            <g id="controls/buttons/overrides/Two-Actions/No/Active">
+                <g id="controls/buttons/overrides/Two-Actions/No/Shape">
+                    <rect id="Boundaries" transform="translate(72.000000, 25.000000) scale(1, -1) translate(-72.000000, -25.000000) " x="-10" y="-10" width="164" height="70"></rect>
+                    <mask id="mask-12" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <use id="Button" fill-opacity="0" fill="#DFFBF8" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <g id="brand/colors/primary-tint" mask="url(#mask-12)" fill="#DEFAF7" fill-rule="evenodd">
+                        <rect id="Rectangle-Copy" x="0" y="0" width="144" height="50"></rect>
+                    </g>
+                </g>
+            </g>
+            <text id="Label" font-family="TTNorms-Medium, TT Norms" font-size="20" font-weight="400" line-spacing="24" fill="#00BFAC">
+                <tspan x="49.9" y="32">Nein</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(83.000000, 488.000000)">
+            <mask id="mask-14" fill="white">
+                <use xlink:href="#path-13"></use>
+            </mask>
+            <use id="Shape" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-13"></use>
+            <g id="brand/colors/primary" opacity="0.13" mask="url(#mask-14)" fill="#03D4BF">
+                <rect id="Rectangle" x="0" y="0" width="86" height="34"></rect>
+            </g>
+            <text id="Caption" mask="url(#mask-14)" font-family="SFProText-Regular, SF Pro Text" font-size="17" font-weight="normal" line-spacing="22" letter-spacing="-0.409999996" fill="#00BFAC">
+                <tspan x="18.7507519" y="22">Action</tspan>
+            </text>
+        </g>
+        <g id="controls/buttons/overrides/Contact/Shape" transform="translate(211.000000, 552.000000)">
+            <mask id="mask-16" fill="white">
+                <use xlink:href="#path-15"></use>
+            </mask>
+            <g id="Search-Field"></g>
+            <g id="brand/colors/primary-tint" mask="url(#mask-16)" fill="#DEFAF7" fill-rule="evenodd">
+                <rect id="Rectangle-Copy" x="0" y="0" width="163" height="50"></rect>
+            </g>
+        </g>
+        <g id="Group" transform="translate(294.000000, 577.000000) rotate(-180.000000) translate(-294.000000, -577.000000) translate(246.000000, 565.000000)">
+            <text id="Label" transform="translate(33.000000, 12.000000) rotate(-180.000000) translate(-33.000000, -12.000000) " font-family="TTNorms-Regular, TT Norms" font-size="18" font-weight="normal" line-spacing="22" fill="#00BFAC">
+                <tspan x="0" y="18">Anrufen</tspan>
+            </text>
+            <g id="icons/action-buttons/icon-call" transform="translate(84.000000, 12.000000) rotate(-180.000000) translate(-84.000000, -12.000000) translate(72.000000, 0.000000)">
+                <g id="icons/contact/call-filled-primary" transform="translate(0.000000, -0.000000)">
+                    <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M3.92700779,5.2237498 L5.69669914,3.45405845 C5.89196129,3.25879631 6.20854378,3.25879631 6.40380592,3.45405845 L9.23223305,6.28248558 C9.42749519,6.47774772 9.42749519,6.79433021 9.23223305,6.98959236 L8.87847547,7.34334994 C7.70715433,8.51467108 7.70898202,10.4160888 8.8820305,11.5891373 L12.4108627,15.1179695 C13.5863845,16.2934913 15.483486,16.2946886 16.6566501,15.1215245 L17.0104076,14.767767 C17.2056698,14.5725048 17.5222523,14.5725048 17.7175144,14.767767 L20.5459415,17.5961941 C20.7412037,17.7914562 20.7412037,18.1080387 20.5459415,18.3033009 L18.7762502,20.0729922 C17.9105304,20.938712 16.1948144,21.1511025 15.1204777,20.5887441 C15.0594117,20.5552894 14.9532488,20.4967017 14.8169455,20.4207499 C14.5897408,20.2941454 14.3624719,20.1657996 14.1499157,20.0433698 C14.1103725,20.0205733 14.1103725,20.0205733 14.0708683,19.9977145 C13.7414919,19.8069363 13.4861254,19.6522046 13.3224508,19.5415387 C11.8478311,18.5444984 10.242276,17.1920234 8.55015812,15.4999056 C6.85759926,13.8073467 5.49775677,12.1928518 4.48702943,10.7015455 C4.37583861,10.5374859 4.22182894,10.2848027 4.03286394,9.96063684 C4.00959635,9.92068182 4.00959635,9.92068182 3.98639343,9.8806866 C3.86299708,9.66779536 3.73366304,9.44017207 3.60609958,9.21261365 C3.52957243,9.07609809 3.47054535,8.96976838 3.42382342,8.8833043 C2.87778518,7.74344956 3.07151028,6.07924732 3.92700779,5.2237498 Z" id="Path" fill="#00BFAC" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+        <rect id="Base" stroke="#03D4BF" fill="#FFFFFF" x="257.5" y="413.5" width="342" height="35" rx="8"></rect>
+        <g id="controls/segmented-control/-_Resources-/-Button-on-Light" transform="translate(429.000000, 412.000000)">
+            <rect id="Background" x="0" y="0" width="171" height="36"></rect>
+            <text id="Tab-Label" font-family="SFProText-Regular, SF Pro Text" font-size="17" font-weight="normal" line-spacing="22" letter-spacing="-0.409999996" fill="#00BFAC">
+                <tspan x="64.7894043" y="23">Label</tspan>
+            </text>
+        </g>
+        <g id="controls/segmented-control/-_Resources-/-Button-Active-on-Light" transform="translate(257.000000, 413.000000)">
+            <g id="brand/colors/primary" fill="#03D4BF" fill-rule="evenodd">
+                <rect id="Rectangle" x="0" y="0" width="173" height="36"></rect>
+            </g>
+            <text id="Tab-Label" font-family="TTNorms-Regular, TT Norms" font-size="18" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                <tspan x="64.225" y="24">Label</tspan>
+            </text>
+        </g>
+        <g id="Group-2" transform="translate(409.000000, 524.000000)">
+            <rect id="Shape" stroke="#666666" x="0.5" y="0.5" width="129" height="27" rx="13.5"></rect>
+            <text id="Button-Label" font-family="TTNorms-Regular, TT Norms" font-size="16" font-weight="normal" line-spacing="20" fill="#666666">
+                <tspan x="18.08" y="18">Wiederholen</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(91.000000, 725.000000)">
+            <rect id="Platter" fill="#FFFFFF" x="0" y="0" width="355" height="56" rx="14"></rect>
+            <text id="label" font-family="SFProDisplay-Semibold, SF Pro Display" font-size="20" font-weight="500" line-spacing="24" letter-spacing="0.75" fill="#00BFAC">
+                <tspan x="144.380859" y="35">Cancel</tspan>
+            </text>
+        </g>
+        <g id="Button-1" transform="translate(91.000000, 667.000000)">
+            <rect id="Platter" fill-opacity="0.82" fill="#F8F8F8" x="0" y="0" width="355" height="57" rx="14"></rect>
+            <g id="Line">
+                <use fill-opacity="0.05" fill="#000050" style="mix-blend-mode: normal;" xlink:href="#path-17"></use>
+                <use fill="#3F3F3F" style="mix-blend-mode: color-burn;" xlink:href="#path-17"></use>
+            </g>
+            <g id="modals/_Resources/Action-Sheet-/-Overrides-/-Default" transform="translate(0.000000, 4.000000)" fill="#00BFAC" font-family="SFProDisplay-Regular, SF Pro Display" font-size="20" font-weight="normal" letter-spacing="0.379999995" line-spacing="24">
+                <text id="↳-Action">
+                    <tspan x="149.509414" y="32">Action</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="timeline/items/_resources/basic-cta" transform="translate(254.000000, 494.000000)" fill="#00BFAC" font-family="TTNorms-Regular, TT Norms" font-size="18" font-weight="normal" line-spacing="22">
+            <text id="Call-to-action">
+                <tspan x="0" y="17">Call to action</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
