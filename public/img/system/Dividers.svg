@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="637px" height="909px" viewBox="0 0 637 909" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Dividers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Dividers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F8F7F5" x="0" y="0" width="637" height="909"></rect>
+        <g id="row/icon" transform="translate(96.000000, 376.000000)">
+            <path d="M0,0 L375,0 L375,72 L0,72 L0,0 Z" id="bounds" fill="#FFFFFF" fill-rule="evenodd"></path>
+            <g id="divider/iOS" transform="translate(0.000000, 71.000000)" fill="#E0E0E0" fill-rule="nonzero">
+                <rect id="Dividers" x="72" y="0.5" width="303" height="1"></rect>
+            </g>
+            <g id="Oval" transform="translate(16.000000, 16.000000)">
+                <circle id="background" fill="#BFBFBF" fill-rule="nonzero" cx="20" cy="20" r="20"></circle>
+                <g id="icons/files/folder-default-white" transform="translate(8.000000, 8.000000)">
+                    <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M3,19.0049107 L20.999095,19 L21,7.9996374 L12.0037842,8 C11.3290525,8 10.6998044,7.65978903 10.3303153,7.09521781 L9,5.00489008 L2.99514697,5 L3,19.0049107 Z M1,4.99508929 C1,3.8932319 1.89987974,3 2.99514697,3 L9.03838218,3 C9.59178425,3 10.2850988,3.3738863 10.5873158,3.83566725 L12.0037842,6 L20.9959107,6 C22.1027387,6 23,6.89339733 23,7.9996374 L23,19.0003626 C23,20.1047318 22.1034544,21 20.999095,21 L3.000905,21 C1.89583568,21 1,20.1073772 1,19.0049107 L1,4.99508929 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+            <text id="Body" font-family="TTNorms-Regular, TT Norms" font-size="16" font-weight="normal" line-spacing="20" fill="#7B7B7B">
+                <tspan x="72" y="55">Body - 16 px regular </tspan>
+            </text>
+            <text id="Title" font-family="TTNorms-Medium, TT Norms" font-size="16" font-weight="400" line-spacing="20" fill="#353F41">
+                <tspan x="72" y="33">Subheading - 16px medium</tspan>
+            </text>
+        </g>
+        <g id="row/icon" transform="translate(96.000000, 635.000000)">
+            <path d="M0,0 L360,0 L360,72 L0,72 L0,0 Z" id="bounds" fill="#FFFFFF" fill-rule="evenodd"></path>
+            <g id="divider/Android" transform="translate(0.000000, 71.000000)" fill="#E0E0E0" fill-rule="nonzero">
+                <rect id="Dividers" x="0" y="0" width="360" height="1"></rect>
+            </g>
+            <g id="Oval" transform="translate(16.000000, 16.000000)">
+                <circle id="background" fill="#BFBFBF" fill-rule="nonzero" cx="20" cy="20" r="20"></circle>
+                <g id="icons/files/folder-default-white" transform="translate(8.000000, 8.000000)">
+                    <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M3,19.0049107 L20.999095,19 L21,7.9996374 L12.0037842,8 C11.3290525,8 10.6998044,7.65978903 10.3303153,7.09521781 L9,5.00489008 L2.99514697,5 L3,19.0049107 Z M1,4.99508929 C1,3.8932319 1.89987974,3 2.99514697,3 L9.03838218,3 C9.59178425,3 10.2850988,3.3738863 10.5873158,3.83566725 L12.0037842,6 L20.9959107,6 C22.1027387,6 23,6.89339733 23,7.9996374 L23,19.0003626 C23,20.1047318 22.1034544,21 20.999095,21 L3.000905,21 C1.89583568,21 1,20.1073772 1,19.0049107 L1,4.99508929 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+            <text id="Body" font-family="TTNorms-Regular, TT Norms" font-size="16" font-weight="normal" line-spacing="20" fill="#7B7B7B">
+                <tspan x="72" y="55">Body - 16 px regular </tspan>
+            </text>
+            <text id="Title" font-family="TTNorms-Medium, TT Norms" font-size="16" font-weight="400" line-spacing="20" fill="#353F41">
+                <tspan x="72" y="33">Subheading - 16px medium</tspan>
+            </text>
+        </g>
+        <g id="row/icon" transform="translate(96.000000, 448.000000)">
+            <path d="M0,0 L375,0 L375,72 L0,72 L0,0 Z" id="bounds" fill="#FFFFFF" fill-rule="evenodd"></path>
+            <g id="divider/iOS" transform="translate(0.000000, 71.000000)" fill="#E0E0E0" fill-rule="nonzero">
+                <rect id="Dividers" x="72" y="0.5" width="303" height="1"></rect>
+            </g>
+            <g id="Oval" transform="translate(16.000000, 16.000000)">
+                <circle id="background" fill="#BFBFBF" fill-rule="nonzero" cx="20" cy="20" r="20"></circle>
+                <g id="icons/files/folder-default-white" transform="translate(8.000000, 8.000000)">
+                    <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M3,19.0049107 L20.999095,19 L21,7.9996374 L12.0037842,8 C11.3290525,8 10.6998044,7.65978903 10.3303153,7.09521781 L9,5.00489008 L2.99514697,5 L3,19.0049107 Z M1,4.99508929 C1,3.8932319 1.89987974,3 2.99514697,3 L9.03838218,3 C9.59178425,3 10.2850988,3.3738863 10.5873158,3.83566725 L12.0037842,6 L20.9959107,6 C22.1027387,6 23,6.89339733 23,7.9996374 L23,19.0003626 C23,20.1047318 22.1034544,21 20.999095,21 L3.000905,21 C1.89583568,21 1,20.1073772 1,19.0049107 L1,4.99508929 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+            <text id="Body" font-family="TTNorms-Regular, TT Norms" font-size="16" font-weight="normal" line-spacing="20" fill="#7B7B7B">
+                <tspan x="72" y="55">Body - 16 px regular </tspan>
+            </text>
+            <text id="Title" font-family="TTNorms-Medium, TT Norms" font-size="16" font-weight="400" line-spacing="20" fill="#353F41">
+                <tspan x="72" y="33">Subheading - 16px medium</tspan>
+            </text>
+        </g>
+        <g id="row/icon" transform="translate(96.000000, 707.000000)">
+            <path d="M0,0 L360,0 L360,72 L0,72 L0,0 Z" id="bounds" fill="#FFFFFF" fill-rule="evenodd"></path>
+            <g id="divider/iOS" transform="translate(0.000000, 71.000000)" fill="#E0E0E0" fill-rule="nonzero">
+                <rect id="Dividers" x="69.12" y="0.5" width="290.88" height="1"></rect>
+            </g>
+            <g id="Oval" transform="translate(16.000000, 16.000000)">
+                <circle id="background" fill="#BFBFBF" fill-rule="nonzero" cx="20" cy="20" r="20"></circle>
+                <g id="icons/files/folder-default-white" transform="translate(8.000000, 8.000000)">
+                    <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M3,19.0049107 L20.999095,19 L21,7.9996374 L12.0037842,8 C11.3290525,8 10.6998044,7.65978903 10.3303153,7.09521781 L9,5.00489008 L2.99514697,5 L3,19.0049107 Z M1,4.99508929 C1,3.8932319 1.89987974,3 2.99514697,3 L9.03838218,3 C9.59178425,3 10.2850988,3.3738863 10.5873158,3.83566725 L12.0037842,6 L20.9959107,6 C22.1027387,6 23,6.89339733 23,7.9996374 L23,19.0003626 C23,20.1047318 22.1034544,21 20.999095,21 L3.000905,21 C1.89583568,21 1,20.1073772 1,19.0049107 L1,4.99508929 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+            <text id="Body" font-family="TTNorms-Regular, TT Norms" font-size="16" font-weight="normal" line-spacing="20" fill="#7B7B7B">
+                <tspan x="72" y="55">Body - 16 px regular </tspan>
+            </text>
+            <text id="Title" font-family="TTNorms-Medium, TT Norms" font-size="16" font-weight="400" line-spacing="20" fill="#353F41">
+                <tspan x="72" y="33">Subheading - 16px medium</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle-3" fill="#FFFFFF" fill-rule="nonzero" x="94" y="115" width="375" height="136"></rect>
+        <text font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="104" y="78">Dividers</tspan>
+        </text>
+        <text id="#E0E0E0" font-family="TTNorms-Medium, TT Norms" font-size="16" font-weight="400" fill="#353F41">
+            <tspan x="116" y="176">#E0E0E0 </tspan>
+        </text>
+        <text id="Height:-0.5px-iOS-He" font-family="TTNorms-Italic, TT Norms" font-size="14" font-style="italic" font-weight="normal" fill="#353F41">
+            <tspan x="119" y="205">Height: 0.5px iOS</tspan>
+            <tspan x="119" y="221">Height: 1 px android</tspan>
+        </text>
+        <text id="iOS" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="104" y="310">iOS</tspan>
+        </text>
+        <text id="Android" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="104" y="586">Android</tspan>
+        </text>
+        <text id="72-px" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="117.66" y="357">72 px</tspan>
+        </text>
+        <path d="M163.885714,376 L163.885714,487 M96,487 L96,376" id="Rectangle-2-Copy-2" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero"></path>
+        <g id="divider/iOS" transform="translate(119.000000, 144.000000)" fill="#E0E0E0" fill-rule="nonzero">
+            <rect id="Dividers" x="58.176" y="0.5" width="244.824" height="1"></rect>
+        </g>
+    </g>
+</svg>

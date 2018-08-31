@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="946px" height="776px" viewBox="0 0 946 776" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Typography</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Typography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="946" height="776"></rect>
+        <rect id="Rectangle" fill="#00BFAC" fill-rule="nonzero" x="409" y="38" width="473" height="718"></rect>
+        <g id="Group-4" transform="translate(0.000000, 65.000000)" fill="#353F41" font-family="TTNorms-Medium, TT Norms" font-size="24" font-weight="400" line-spacing="32">
+            <text id="Headline---24-Medium">
+                <tspan x="0" y="23">Headline - 24 Medium </tspan>
+            </text>
+            <text id="Lorem-ipsum-dolor-si">
+                <tspan x="0" y="63">Lorem ipsum dolor sit amet, </tspan>
+                <tspan x="0" y="95">nec dicta commodo.</tspan>
+            </text>
+        </g>
+        <g id="Group-4-Copy" transform="translate(466.000000, 64.000000)" fill="#FFFFFF" font-family="TTNorms-Medium, TT Norms" font-size="24" font-weight="400" line-spacing="32">
+            <text id="Headline---24-Medium">
+                <tspan x="0" y="23">Headline - 24 Medium </tspan>
+            </text>
+            <text id="Lorem-ipsum-dolor-si">
+                <tspan x="0" y="63">Lorem ipsum dolor sit amet, </tspan>
+                <tspan x="0" y="95">nec dicta commodo.</tspan>
+            </text>
+        </g>
+        <g id="Group-5" transform="translate(0.000000, 225.000000)" fill="#353F41" font-family="TTNorms-Bold, TT Norms" font-size="20" font-weight="bold" line-spacing="28">
+            <text id="Title---20-Bold">
+                <tspan x="0" y="19">Title - 20 Bold </tspan>
+            </text>
+            <text id="Lorem-ipsum-dolor-si">
+                <tspan x="0" y="55">Lorem ipsum dolor sit amet, ne</tspan>
+            </text>
+        </g>
+        <g id="Group-5-Copy" transform="translate(466.000000, 224.000000)" fill="#FFFFFF" font-family="TTNorms-Bold, TT Norms" font-size="20" font-weight="bold" line-spacing="28">
+            <text id="Title---20-Bold">
+                <tspan x="0" y="19">Title - 20 Bold </tspan>
+            </text>
+            <text id="Lorem-ipsum-dolor-si">
+                <tspan x="0" y="55">Lorem ipsum dolor sit amet, ne</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(0.000000, 345.000000)" fill="#353F41" font-family="TTNorms-Medium, TT Norms" font-size="16" font-weight="400" line-spacing="20">
+            <text id="Subheading---16-Medi">
+                <tspan x="0" y="15">Subheading - 16 Medium</tspan>
+            </text>
+            <text id="Lorem-ipsum-dolor-si">
+                <tspan x="0" y="43">Lorem ipsum dolor sit amet, nec dicta </tspan>
+                <tspan x="0" y="63">commodo reformidans cu.</tspan>
+            </text>
+        </g>
+        <g id="Group-3-Copy" transform="translate(466.000000, 344.000000)" fill="#FFFFFF" font-family="TTNorms-Medium, TT Norms" font-size="16" font-weight="400" line-spacing="20">
+            <text id="Subheading---16-Medi">
+                <tspan x="0" y="15">Subheading - 16 Medium</tspan>
+            </text>
+            <text id="Lorem-ipsum-dolor-si">
+                <tspan x="0" y="43">Lorem ipsum dolor sit amet, nec dicta </tspan>
+                <tspan x="0" y="63">commodo reformidans cu.</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(0.000000, 469.000000)" fill="#353F41" font-family="TTNorms-Regular, TT Norms" font-size="16" font-weight="normal" line-spacing="20">
+            <text id="Body---16-Regular">
+                <tspan x="0" y="15">Body - 16 Regular</tspan>
+            </text>
+            <text id="Lorem-ipsum-dolor-si">
+                <tspan x="0" y="43">Lorem ipsum dolor sit amet, nec dicta </tspan>
+                <tspan x="0" y="63">commodo reformidans cu. Eripuit Lorem </tspan>
+                <tspan x="0" y="83">ipsum dolor sit amet, nec dicta commodo </tspan>
+                <tspan x="0" y="103">reformidans cu. Eripuit </tspan>
+            </text>
+        </g>
+        <g id="Group-Copy" transform="translate(466.000000, 468.000000)" fill="#FFFFFF" font-family="TTNorms-Regular, TT Norms" font-size="16" font-weight="normal" line-spacing="20">
+            <text id="Body---16-Regular">
+                <tspan x="0" y="15">Body - 16 Regular</tspan>
+            </text>
+            <text id="Lorem-ipsum-dolor-si">
+                <tspan x="0" y="43">Lorem ipsum dolor sit amet, nec dicta </tspan>
+                <tspan x="0" y="63">commodo reformidans cu. Eripuit Lorem </tspan>
+                <tspan x="0" y="83">ipsum dolor sit amet, nec dicta commodo </tspan>
+                <tspan x="0" y="103">reformidans cu. Eripuit </tspan>
+            </text>
+        </g>
+        <g id="Group-2" transform="translate(0.000000, 633.000000)" fill="#7B7B7B" font-family="TTNorms-Regular, TT Norms" font-size="14" font-weight="normal" line-spacing="16">
+            <text id="Caption---14-Regular">
+                <tspan x="0" y="13">Caption - 14 Regular</tspan>
+            </text>
+            <text id="Lorem-ipsum-dolor-si-Copy-3">
+                <tspan x="0" y="45">Lorem ipsum dolor sit amet, nec dicta commodo </tspan>
+                <tspan x="0" y="61">reformidans cu. Eripuit Lorem ipsum dolor sit amet, </tspan>
+                <tspan x="0" y="77">nec dicta commodo reformidans cu. Eripuit </tspan>
+            </text>
+        </g>
+        <g id="Group-2-Copy" transform="translate(466.000000, 632.000000)" fill="#FFFFFF" font-family="TTNorms-Regular, TT Norms" font-size="14" font-weight="normal" line-spacing="16">
+            <text id="Caption---14-Regular">
+                <tspan x="0" y="13">Caption - 14 Regular</tspan>
+            </text>
+            <text id="Lorem-ipsum-dolor-si-Copy-3">
+                <tspan x="0" y="45">Lorem ipsum dolor sit amet, nec dicta commodo </tspan>
+                <tspan x="0" y="61">reformidans cu. Eripuit Lorem ipsum dolor sit amet, </tspan>
+                <tspan x="0" y="77">nec dicta commodo reformidans cu. Eripuit </tspan>
+            </text>
+        </g>
+    </g>
+</svg>

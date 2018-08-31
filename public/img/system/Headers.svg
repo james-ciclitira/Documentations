@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="637px" height="1131px" viewBox="0 0 637 1131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Headers</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="116"></rect>
+        <filter x="-0.1%" y="-0.2%" width="100.1%" height="100.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="375" height="64"></rect>
+        <filter x="-0.1%" y="-0.4%" width="100.1%" height="101.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="416 765 56 765 56 845 416 845"></polygon>
+        <filter x="-1.1%" y="-2.5%" width="102.2%" height="110.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Headers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F8F7F5" x="0" y="0" width="637" height="1131"></rect>
+        <text font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="46" y="76">Headers </tspan>
+        </text>
+        <text id="Overview/Features-us" font-family="TTNorms-Regular, TT Norms" font-size="20" font-weight="normal" fill="#7B7B7B">
+            <tspan x="46" y="209">Overview/Features uses large navbarr</tspan>
+        </text>
+        <text id="Overview/Features-us" font-family="TTNorms-Regular, TT Norms" font-size="20" font-weight="normal" fill="#7B7B7B">
+            <tspan x="56" y="737">Overview/Features uses standard navbar</tspan>
+        </text>
+        <text id="Setting/edit/add-use" font-family="TTNorms-Regular, TT Norms" font-size="20" font-weight="normal" fill="#7B7B7B">
+            <tspan x="46" y="440">Setting/edit/add use small</tspan>
+        </text>
+        <text id="Setting/edit/add-use" font-family="TTNorms-Regular, TT Norms" font-size="20" font-weight="normal" fill="#7B7B7B">
+            <tspan x="53" y="904">Setting/edit/add use overflow</tspan>
+        </text>
+        <text id="Overflow-only-shows" font-family="TTNorms-Regular, TT Norms" font-size="15" font-weight="normal" fill="#7B7B7B">
+            <tspan x="53" y="1046">Overflow only shows shadow on scroll</tspan>
+        </text>
+        <g id="bars/Navigation-Bar/Light-Large-Navigation-Bar" transform="translate(46.000000, 247.000000)">
+            <g id="bars/Navigation-Bar/_Resources/background">
+                <g id="Background">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill-opacity="0.82" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <g id="bars/Navigation-Bar/_Resources/Right-Combinations/Icons" transform="translate(205.000000, 20.000000)" stroke="#00BFAC" stroke-linecap="round">
+                <g id="bars/Navigation-Bar/_Resources/Right-Combinations/overrides/icon-navbar-add" transform="translate(115.000000, 2.000000)">
+                    <g id="Group" transform="translate(18.700001, 10.000000)">
+                        <path d="M0,10 L20,10" id="Line" stroke-width="2.5"></path>
+                        <path d="M10,0 L10,20" id="Line" stroke-width="2.5"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="bars/Navigation-Bar/_Resources/Left-Combinations/Back-Button" transform="translate(0.000000, 20.000000)" fill="#00BFAC">
+                <text id="↳-Label" font-family="TTNorms-Regular, TT Norms" font-size="18" font-weight="normal" line-spacing="22">
+                    <tspan x="27" y="28">Zurück</tspan>
+                </text>
+                <g id="bars/Navigation-Bar/_Resources/Left-Combinations/overrides/icon-navbar-back" transform="translate(8.000000, 2.000000)" fill-rule="evenodd">
+                    <path d="M10.5371349,29.8326673 L1.29215185,20.6958042 C0.902616049,20.3111888 0.902616049,19.6898102 1.29215185,19.3041958 L10.5371349,10.1673327 C11.0994648,9.61088911 12.0143745,9.61088911 12.5777032,10.1673327 C13.1400331,10.7237762 13.1400331,11.6268731 12.5777032,12.1833167 L4.66912762,20.0004995 L12.5777032,27.8156843 C13.1400331,28.3731269 13.1400331,29.2762238 12.5777032,29.8326673 C12.0143745,30.3891109 11.0994648,30.3891109 10.5371349,29.8326673" id="Chevron"></path>
+                </g>
+            </g>
+            <text id="Title" font-family="TTNorms-Bold, TT Norms" font-size="28" font-weight="bold" line-spacing="41" fill="#353F41">
+                <tspan x="14" y="95">Large Title</tspan>
+            </text>
+            <g id="bars/Status-Bar-/-Black">
+                <g id="Status-Bar-/-Black">
+                    <rect id="Background" fill-opacity="0" fill="#000000" x="0" y="0" width="375" height="20"></rect>
+                    <g id="Charge" transform="translate(312.000000, 3.000000)">
+                        <g id="Battery" transform="translate(31.000000, 1.000000)">
+                            <rect id="Shape" stroke="#000000" opacity="0.5" x="0.5" y="1" width="23" height="10.5" rx="2"></rect>
+                            <path d="M2.5,2.5 L13,2.5 L13,10 L2.5,10 C2.22385763,10 2,9.77614237 2,9.5 L2,3 C2,2.72385763 2.22385763,2.5 2.5,2.5 Z" id="Shape" fill="#000000"></path>
+                            <path d="M25,4.5 L25,4.5 C25.8284271,4.5 26.5,5.17157288 26.5,6 L26.5,6.5 C26.5,7.32842712 25.8284271,8 25,8 L25,4.5 Z" id="Shape" fill="#000000" opacity="0.5"></path>
+                        </g>
+                        <text id="58-%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" fill="#000000">
+                            <tspan x="0" y="11">58 %</tspan>
+                        </text>
+                    </g>
+                    <path d="M303.5,14 L303.5,11 L305.5,12.5719512 L303.5,14 L303.5,14 L303.5,14 L303.5,14 Z M305.5,7.41650184 L303.5,9 L303.5,6 L305.5,7.41650184 L305.5,7.41650184 L305.5,7.41650184 L305.5,7.41650184 Z M303.6451,10.0004443 L306.45913,7.54499 L302.260513,4 L302.16133,4 L302.16133,8.9304599 L299.311414,6.3305932 L298.5,7.06820707 L301.92907,10.0004443 L298.5,12.9322373 L299.311414,13.6698511 L302.16133,11.0699844 L302.16133,16 L302.342751,16 L306.5,12.4461231 L303.6451,10.0004443 L303.6451,10.0004443 Z" id="Bluetooth-Icon" fill="#000000" opacity="0.4"></path>
+                    <text id="9:41" font-family="SFProText-Semibold, SF Pro Text" font-size="12" font-weight="500" fill="#000000">
+                        <tspan x="164" y="14.5">9:41 AM</tspan>
+                    </text>
+                    <path d="M55.5939648,12.2681206 C55.0396726,11.8142533 54.3259403,11.5 53.5457329,11.5 C52.7670249,11.5 52.0542921,11.8137668 51.5,12.2656883 L53.5457329,14.5 L55.5939648,12.2681206 L55.5939648,12.2681206 Z M53.5344871,10.0198904 C54.6970511,10.0198904 55.7591528,10.4420274 56.5783456,11.1373699 L57.5739723,10.0376438 C56.4903786,9.10756164 55.0809072,8.5 53.5344871,8.5 C51.9910659,8.5 50.582594,9.10608219 49.5,10.0332055 L50.4941272,11.134411 C51.3128202,10.4405479 52.3734225,10.0198904 53.5344871,10.0198904 L53.5344871,10.0198904 Z M53.4957516,7.02087671 C55.4355242,7.02087671 57.2033612,7.73545205 58.5588529,8.90717808 L59.5,7.86810959 C57.894602,6.47446575 55.7978883,5.5 53.4957516,5.5 C51.1971136,5.5 49.1033987,6.47150685 47.5,7.86071233 L48.4391478,8.90126027 C49.7936399,7.7329863 51.5584781,7.02087671 53.4957516,7.02087671 L53.4957516,7.02087671 Z" id="Wifi" fill="#000000"></path>
+                    <text id="UV" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="26" y="14.5">UV</tspan>
+                    </text>
+                    <path d="M20,5 L22,5 C22.2761424,5 22.5,5.22385763 22.5,5.5 L22.5,14.5 C22.5,14.7761424 22.2761424,15 22,15 L20,15 C19.7238576,15 19.5,14.7761424 19.5,14.5 L19.5,5.5 C19.5,5.22385763 19.7238576,5 20,5 Z M15.5,7 L17.5,7 C17.7761424,7 18,7.22385763 18,7.5 L18,14.5 C18,14.7761424 17.7761424,15 17.5,15 L15.5,15 C15.2238576,15 15,14.7761424 15,14.5 L15,7.5 C15,7.22385763 15.2238576,7 15.5,7 Z M11,9 L13,9 C13.2761424,9 13.5,9.22385763 13.5,9.5 L13.5,14.5 C13.5,14.7761424 13.2761424,15 13,15 L11,15 C10.7238576,15 10.5,14.7761424 10.5,14.5 L10.5,9.5 C10.5,9.22385763 10.7238576,9 11,9 Z M6.5,10.5 L8.5,10.5 C8.77614237,10.5 9,10.7238576 9,11 L9,14.5 C9,14.7761424 8.77614237,15 8.5,15 L6.5,15 C6.22385763,15 6,14.7761424 6,14.5 L6,11 C6,10.7238576 6.22385763,10.5 6.5,10.5 Z" id="Signal-Icon" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+        <g id="Group" transform="translate(46.000000, 489.000000)">
+            <g id="bars/Navigation-Bar/_Resources/background">
+                <g id="Background">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill-opacity="0.82" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+            </g>
+            <g id="bars/Navigation-Bar/_Resources/Right-Combinations/Icons" transform="translate(205.000000, 20.000000)" stroke="#00BFAC" stroke-linecap="round">
+                <g id="bars/Navigation-Bar/_Resources/Right-Combinations/overrides/icon-navbar-add" transform="translate(115.000000, 2.000000)">
+                    <g id="Group" transform="translate(18.700001, 10.000000)">
+                        <path d="M0,10 L20,10" id="Line" stroke-width="2.5"></path>
+                        <path d="M10,0 L10,20" id="Line" stroke-width="2.5"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="bars/Navigation-Bar/_Resources/Left-Combinations/Back-Button" transform="translate(0.000000, 20.000000)" fill="#00BFAC">
+                <text id="↳-Label" font-family="TTNorms-Regular, TT Norms" font-size="18" font-weight="normal" line-spacing="22">
+                    <tspan x="27" y="28">Zurück</tspan>
+                </text>
+                <g id="bars/Navigation-Bar/_Resources/Left-Combinations/overrides/icon-navbar-back" transform="translate(8.000000, 2.000000)" fill-rule="evenodd">
+                    <path d="M10.5371349,29.8326673 L1.29215185,20.6958042 C0.902616049,20.3111888 0.902616049,19.6898102 1.29215185,19.3041958 L10.5371349,10.1673327 C11.0994648,9.61088911 12.0143745,9.61088911 12.5777032,10.1673327 C13.1400331,10.7237762 13.1400331,11.6268731 12.5777032,12.1833167 L4.66912762,20.0004995 L12.5777032,27.8156843 C13.1400331,28.3731269 13.1400331,29.2762238 12.5777032,29.8326673 C12.0143745,30.3891109 11.0994648,30.3891109 10.5371349,29.8326673" id="Chevron"></path>
+                </g>
+            </g>
+            <text id="Title" font-family="TTNorms-Medium, TT Norms" font-size="18" font-weight="400" line-spacing="22" fill="#353F41">
+                <tspan x="169.32" y="48">Title</tspan>
+            </text>
+            <g id="bars/Status-Bar-/-Black">
+                <g id="Status-Bar-/-Black">
+                    <rect id="Background" fill-opacity="0" fill="#000000" x="0" y="0" width="375" height="20"></rect>
+                    <g id="Charge" transform="translate(312.000000, 3.000000)">
+                        <g id="Battery" transform="translate(31.000000, 1.000000)">
+                            <rect id="Shape" stroke="#000000" opacity="0.5" x="0.5" y="1" width="23" height="10.5" rx="2"></rect>
+                            <path d="M2.5,2.5 L13,2.5 L13,10 L2.5,10 C2.22385763,10 2,9.77614237 2,9.5 L2,3 C2,2.72385763 2.22385763,2.5 2.5,2.5 Z" id="Shape" fill="#000000"></path>
+                            <path d="M25,4.5 L25,4.5 C25.8284271,4.5 26.5,5.17157288 26.5,6 L26.5,6.5 C26.5,7.32842712 25.8284271,8 25,8 L25,4.5 Z" id="Shape" fill="#000000" opacity="0.5"></path>
+                        </g>
+                        <text id="58-%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" fill="#000000">
+                            <tspan x="0" y="11">58 %</tspan>
+                        </text>
+                    </g>
+                    <path d="M303.5,14 L303.5,11 L305.5,12.5719512 L303.5,14 L303.5,14 L303.5,14 L303.5,14 Z M305.5,7.41650184 L303.5,9 L303.5,6 L305.5,7.41650184 L305.5,7.41650184 L305.5,7.41650184 L305.5,7.41650184 Z M303.6451,10.0004443 L306.45913,7.54499 L302.260513,4 L302.16133,4 L302.16133,8.9304599 L299.311414,6.3305932 L298.5,7.06820707 L301.92907,10.0004443 L298.5,12.9322373 L299.311414,13.6698511 L302.16133,11.0699844 L302.16133,16 L302.342751,16 L306.5,12.4461231 L303.6451,10.0004443 L303.6451,10.0004443 Z" id="Bluetooth-Icon" fill="#000000" opacity="0.4"></path>
+                    <text id="9:41" font-family="SFProText-Semibold, SF Pro Text" font-size="12" font-weight="500" fill="#000000">
+                        <tspan x="164" y="14.5">9:41 AM</tspan>
+                    </text>
+                    <path d="M55.5939648,12.2681206 C55.0396726,11.8142533 54.3259403,11.5 53.5457329,11.5 C52.7670249,11.5 52.0542921,11.8137668 51.5,12.2656883 L53.5457329,14.5 L55.5939648,12.2681206 L55.5939648,12.2681206 Z M53.5344871,10.0198904 C54.6970511,10.0198904 55.7591528,10.4420274 56.5783456,11.1373699 L57.5739723,10.0376438 C56.4903786,9.10756164 55.0809072,8.5 53.5344871,8.5 C51.9910659,8.5 50.582594,9.10608219 49.5,10.0332055 L50.4941272,11.134411 C51.3128202,10.4405479 52.3734225,10.0198904 53.5344871,10.0198904 L53.5344871,10.0198904 Z M53.4957516,7.02087671 C55.4355242,7.02087671 57.2033612,7.73545205 58.5588529,8.90717808 L59.5,7.86810959 C57.894602,6.47446575 55.7978883,5.5 53.4957516,5.5 C51.1971136,5.5 49.1033987,6.47150685 47.5,7.86071233 L48.4391478,8.90126027 C49.7936399,7.7329863 51.5584781,7.02087671 53.4957516,7.02087671 L53.4957516,7.02087671 Z" id="Wifi" fill="#000000"></path>
+                    <text id="UV" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="26" y="14.5">UV</tspan>
+                    </text>
+                    <path d="M20,5 L22,5 C22.2761424,5 22.5,5.22385763 22.5,5.5 L22.5,14.5 C22.5,14.7761424 22.2761424,15 22,15 L20,15 C19.7238576,15 19.5,14.7761424 19.5,14.5 L19.5,5.5 C19.5,5.22385763 19.7238576,5 20,5 Z M15.5,7 L17.5,7 C17.7761424,7 18,7.22385763 18,7.5 L18,14.5 C18,14.7761424 17.7761424,15 17.5,15 L15.5,15 C15.2238576,15 15,14.7761424 15,14.5 L15,7.5 C15,7.22385763 15.2238576,7 15.5,7 Z M11,9 L13,9 C13.2761424,9 13.5,9.22385763 13.5,9.5 L13.5,14.5 C13.5,14.7761424 13.2761424,15 13,15 L11,15 C10.7238576,15 10.5,14.7761424 10.5,14.5 L10.5,9.5 C10.5,9.22385763 10.7238576,9 11,9 Z M6.5,10.5 L8.5,10.5 C8.77614237,10.5 9,10.7238576 9,11 L9,14.5 C9,14.7761424 8.77614237,15 8.5,15 L6.5,15 C6.22385763,15 6,14.7761424 6,14.5 L6,11 C6,10.7238576 6.22385763,10.5 6.5,10.5 Z" id="Signal-Icon" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+        <text id="iOS" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="46" y="145">iOS</tspan>
+        </text>
+        <text id="Android-Copy" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="56" y="679">Android</tspan>
+        </text>
+        <g id="bg">
+            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+            <use fill="#03D4BF" fill-rule="evenodd" xlink:href="#path-5"></use>
+        </g>
+        <g id="icons/common/more-vertical/white" transform="translate(376.000000, 805.000000)">
+            <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+            <path d="M12,14 C10.8954305,14 10,13.1045695 10,12 C10,10.8954305 10.8954305,10 12,10 C13.1045695,10 14,10.8954305 14,12 C14,13.1045695 13.1045695,14 12,14 Z M19,14 C17.8954305,14 17,13.1045695 17,12 C17,10.8954305 17.8954305,10 19,10 C20.1045695,10 21,10.8954305 21,12 C21,13.1045695 20.1045695,14 19,14 Z M5,14 C3.8954305,14 3,13.1045695 3,12 C3,10.8954305 3.8954305,10 5,10 C6.1045695,10 7,10.8954305 7,12 C7,13.1045695 6.1045695,14 5,14 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="evenodd" transform="translate(12.000000, 12.000000) rotate(90.000000) translate(-12.000000, -12.000000) "></path>
+        </g>
+        <g id="icons/common/menu/white" transform="translate(72.000000, 805.000000)">
+            <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+            <path d="M21,17 L21,17 C21,16.4477153 20.5522847,16 20,16 L4,16 C3.44771525,16 3,16.4477153 3,17 L3,17 C3,17.5522847 3.44771525,18 4,18 L20,18 C20.5522847,18 21,17.5522847 21,17 Z M21,12 L21,12 C21,11.4477153 20.5522847,11 20,11 L4,11 C3.44771525,11 3,11.4477153 3,12 L3,12 C3,12.5522847 3.44771525,13 4,13 L20,13 C20.5522847,13 21,12.5522847 21,12 Z M4,8 L20,8 C20.5522847,8 21,7.55228475 21,7 L21,7 C21,6.44771525 20.5522847,6 20,6 L4,6 C3.44771525,6 3,6.44771525 3,7 L3,7 C3,7.55228475 3.44771525,8 4,8 Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd"></path>
+        </g>
+        <text id="title" font-family="TTNorms-Bold, TT Norms" font-size="20" font-weight="bold" line-spacing="28" fill="#FFFFFF">
+            <tspan x="128" y="824">Title</tspan>
+        </text>
+        <g id="material/status-bar/brand" transform="translate(56.000000, 765.000000)">
+            <g id="status-bar">
+                <rect id="status-bar-bg" fill="#00BFAC" x="0" y="0" width="360" height="24"></rect>
+                <g id="status-bar-contents" transform="translate(242.000000, 0.000000)">
+                    <rect id="bounds" x="0" y="0" width="118" height="24"></rect>
+                    <g id="time" opacity="0.9" transform="translate(74.000000, 4.000000)" fill="#FFFFFF" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400">
+                        <text id="12:30">
+                            <tspan x="0.459960938" y="13">12:30</tspan>
+                        </text>
+                    </g>
+                    <g id="battery" transform="translate(55.000000, 4.000000)">
+                        <polygon id="bounds" points="0 0 16 0 16 16 0 16"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="9 1.875 9 1 6 1 6 1.875 3 1.875 3 15 12 15 12 1.875"></polygon>
+                    </g>
+                    <g id="cellular" transform="translate(35.000000, 4.000000)">
+                        <polygon id="bounds" points="0 0 16 0 16 16 0 16"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="0 15 14 15 14 1"></polygon>
+                    </g>
+                    <g id="wifi" transform="translate(14.000000, 4.000000)">
+                        <polygon id="bounds" points="2 0 18 0 18 16 2 16"></polygon>
+                        <path d="M0.977372085,4.01593123 C3.48821908,2.12256382 6.61301513,1 10,1 C13.3869849,1 16.5117809,2.12256382 19.0226279,4.01593123 L10,15 L0.977372085,4.01593123 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Group-2" transform="translate(54.000000, 923.000000)">
+            <polygon id="app-bar-bg" fill="#FAFAFA" points="360 0 0 0 0 80 360 80"></polygon>
+            <g id="icons/common/close/black" transform="translate(16.000000, 40.000000)">
+                <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                <path d="M18.295,5.705 L18.295,5.705 C17.9056393,5.31563925 17.2743607,5.31563925 16.885,5.705 L12,10.59 L7.115,5.705 C6.72563925,5.31563925 6.09436075,5.31563925 5.705,5.705 L5.705,5.705 C5.31563925,6.09436075 5.31563925,6.72563925 5.705,7.115 L10.59,12 L5.705,16.885 C5.31563925,17.2743607 5.31563925,17.9056393 5.705,18.295 L5.705,18.295 C6.09436075,18.6843607 6.72563925,18.6843607 7.115,18.295 L12,13.41 L16.885,18.295 C17.2743607,18.6843607 17.9056393,18.6843607 18.295,18.295 L18.295,18.295 C18.6843607,17.9056393 18.6843607,17.2743607 18.295,16.885 L13.41,12 L18.295,7.115 C18.6843607,6.72563925 18.6843607,6.09436075 18.295,5.705 Z" id="Shape" fill="#575756" fill-rule="nonzero"></path>
+            </g>
+            <text id="title" font-family="TTNorms-Bold, TT Norms" font-size="20" font-weight="bold" line-spacing="28" fill="#575756">
+                <tspan x="72" y="59">Title</tspan>
+            </text>
+            <g id="material/status-bar/clear-dark">
+                <rect id="bounds" fill="#F5F5F5" x="0" y="0" width="360" height="24"></rect>
+                <g id="time" opacity="0.9" transform="translate(316.000000, 4.000000)" fill="#000000" fill-opacity="0.600000024" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400">
+                    <text id="12:30">
+                        <tspan x="0.459960938" y="13">12:30</tspan>
+                    </text>
+                </g>
+                <g id="battery" transform="translate(297.000000, 4.000000)">
+                    <polygon id="bounds" points="0 0 16 0 16 16 0 16"></polygon>
+                    <polygon id="Shape" fill-opacity="0.600000024" fill="#000000" points="9 1.875 9 1 6 1 6 1.875 3 1.875 3 15 12 15 12 1.875"></polygon>
+                </g>
+                <g id="cellular" transform="translate(277.000000, 4.000000)">
+                    <polygon id="bounds" points="0 0 16 0 16 16 0 16"></polygon>
+                    <polygon id="Shape" fill-opacity="0.600000024" fill="#000000" points="0 15 14 15 14 1"></polygon>
+                </g>
+                <g id="wifi" transform="translate(256.000000, 4.000000)">
+                    <polygon id="bounds" points="2 0 18 0 18 16 2 16"></polygon>
+                    <path d="M0.977372085,4.01593123 C3.48821908,2.12256382 6.61301513,1 10,1 C13.3869849,1 16.5117809,2.12256382 19.0226279,4.01593123 L10,15 L0.977372085,4.01593123 Z" id="Shape" fill-opacity="0.600000024" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
