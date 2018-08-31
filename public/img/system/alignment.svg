@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="637px" height="1338px" viewBox="0 0 637 1338" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>alignment</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="alignment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F8F7F5" x="0" y="0" width="637" height="1338"></rect>
+        <g id="Group" transform="translate(55.000000, 1057.000000)">
+            <rect id="row-bg" fill="#FFFFFF" x="0" y="0" width="360" height="168"></rect>
+            <text id="body" font-family="TTNorms-Regular, TT Norms" font-size="15" font-weight="normal" line-spacing="20" fill="#575756">
+                <tspan x="16" y="106">Bitte halte deinen Ausweis oder Reisepass in die </tspan>
+                <tspan x="16" y="126">Kamera. Das Dokument wird automatisch </tspan>
+                <tspan x="16" y="146">erkannt.</tspan>
+            </text>
+            <text id="title" font-family="TTNorms-Medium, TT Norms" font-size="24" font-weight="400" line-spacing="30" fill="#575756">
+                <tspan x="16" y="39">Bestätige deinen Ausweis </tspan>
+                <tspan x="16" y="69">oder Reisepass</tspan>
+            </text>
+        </g>
+        <text font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="46" y="76">Headline + Alignment</tspan>
+        </text>
+        <g id="icons/common/more-vertical/white" transform="translate(376.000000, 781.000000)">
+            <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+            <path d="M12,14 C10.8954305,14 10,13.1045695 10,12 C10,10.8954305 10.8954305,10 12,10 C13.1045695,10 14,10.8954305 14,12 C14,13.1045695 13.1045695,14 12,14 Z M19,14 C17.8954305,14 17,13.1045695 17,12 C17,10.8954305 17.8954305,10 19,10 C20.1045695,10 21,10.8954305 21,12 C21,13.1045695 20.1045695,14 19,14 Z M5,14 C3.8954305,14 3,13.1045695 3,12 C3,10.8954305 3.8954305,10 5,10 C6.1045695,10 7,10.8954305 7,12 C7,13.1045695 6.1045695,14 5,14 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="evenodd" transform="translate(12.000000, 12.000000) rotate(90.000000) translate(-12.000000, -12.000000) "></path>
+        </g>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="46" y="137" width="375" height="160"></rect>
+        <text id="body" font-family="TTNorms-Regular, TT Norms" font-size="18" font-weight="normal" line-spacing="22" fill="#7B7B7B">
+            <tspan x="101.56" y="254">Hi, ich bin Vivy, deine persönliche </tspan>
+            <tspan x="139.99" y="276">Gesundheitsassistentin </tspan>
+        </text>
+        <text id="title" font-family="TTNorms-Medium, TT Norms" font-size="28" font-weight="400" line-spacing="34" fill="#353F41">
+            <tspan x="97.63" y="180">Lorem ipsum dolor sit </tspan>
+            <tspan x="99.31" y="214">amet, consectetur do</tspan>
+        </text>
+        <text id="32-px" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="49.39" y="357">32 px</tspan>
+        </text>
+        <text id="24-px" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="43.15" y="579">24 px</tspan>
+        </text>
+        <text id="16-px" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="54.23" y="1014">16 px</tspan>
+        </text>
+        <text id="24-px-copy" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="394.15" y="579">24 px</tspan>
+        </text>
+        <text id="16-px" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="393.23" y="1014">16 px</tspan>
+        </text>
+        <text id="16-px-copy" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="457.23" y="1136">16 px</tspan>
+        </text>
+        <text id="16-px-copy-2" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="455.23" y="1219">16 px</tspan>
+        </text>
+        <text id="16-px-copy-3" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="466.23" y="744">16 px</tspan>
+        </text>
+        <text id="16-px-copy-4" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="465.73" y="892.5">16 px</tspan>
+        </text>
+        <text id="32-px-copy" font-family="TTNorms-Medium, TT Norms" font-size="12" font-weight="400" fill="#353F41">
+            <tspan x="389.39" y="357">32 px</tspan>
+        </text>
+        <path d="M76.1176471,245 L76.1176471,336 M46,336 L46,245" id="Rectangle-2-Copy-2" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero"></path>
+        <path d="M421.117647,241 L421.117647,336 M391,336 L391,241" id="Rectangle-2-Copy-3" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero"></path>
+        <g id="Group-3" transform="translate(46.000000, 615.000000)">
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="375" height="283"></rect>
+            <text id="Lorem-Ipsum" font-family="TTNorms-Regular, TT Norms" font-size="18" font-weight="normal" line-spacing="22" fill="#7B7B7B">
+                <tspan x="24" y="151">Lorem ipsum dolor sit amet, consectetur </tspan>
+                <tspan x="24" y="173">adipisicing elit, sed do eiusmod tempor </tspan>
+                <tspan x="24" y="195">incididunt ut labore et dolore magna </tspan>
+                <tspan x="24" y="217">aliqua. Ut enim ad minim veniam, quis </tspan>
+                <tspan x="24" y="239">nostrud exercitation ullamco laboris nisi </tspan>
+                <tspan x="24" y="261">ut aliquip ex ea commodo consequat.</tspan>
+            </text>
+            <text id="title" font-family="TTNorms-Medium, TT Norms" font-size="28" font-weight="400" line-spacing="34" fill="#353F41">
+                <tspan x="24" y="43">Lorem ipsum dolor sit </tspan>
+                <tspan x="24" y="77">amet, consectetur </tspan>
+                <tspan x="24" y="111">adipisicing elit, sed do</tspan>
+            </text>
+        </g>
+        <text id="Cental-can-be-used-i" font-family="TTNorms-Regular, TT Norms" font-size="20" font-weight="normal" fill="#7B7B7B">
+            <tspan x="45" y="412">Cental  can be used if less than 2x headline 2x body</tspan>
+            <tspan x="45" y="435"></tspan>
+            <tspan x="45" y="458">BUT MAINTAIN CONSISTENCY WITHIN A FLOW </tspan>
+        </text>
+        <path d="M69,899 L69,598 L69,899 Z M46,598 L46,899 L46,598 Z" id="Rectangle-2-Copy-4" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero"></path>
+        <path d="M71.3333333,1033 L71.3333333,1225 M56,1225 L56,1033" id="Rectangle-2-Copy-6" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero" transform="translate(64.000000, 1129.000000) scale(1, -1) translate(-64.000000, -1129.000000) "></path>
+        <path d="M420,896 L420,595 L420,896 Z M397,595 L397,896 L397,595 Z" id="Rectangle-2-Copy-5" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero"></path>
+        <path d="M414.333333,1033 L414.333333,1225 M399,1225 L399,1033" id="Rectangle-2-Copy-7" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero" transform="translate(407.000000, 1129.000000) scale(1, -1) translate(-407.000000, -1129.000000) "></path>
+        <path d="M397.5,1079.5 L397.5,1188.5 M382.5,1188.5 L382.5,1079.5" id="Rectangle-2-Copy-8" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero" transform="translate(390.500000, 1134.000000) scale(1, -1) rotate(-90.000000) translate(-390.500000, -1134.000000) "></path>
+        <path d="M394.5,1162.5 L394.5,1271.5 M379.5,1271.5 L379.5,1162.5" id="Rectangle-2-Copy-9" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero" transform="translate(387.500000, 1217.000000) scale(1, -1) rotate(-90.000000) translate(-387.500000, -1217.000000) "></path>
+        <path d="M412.5,687.5 L412.5,796.5 M397.5,796.5 L397.5,687.5" id="Rectangle-2-Copy-10" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero" transform="translate(405.500000, 742.000000) scale(1, -1) rotate(-90.000000) translate(-405.500000, -742.000000) "></path>
+        <path d="M412,836 L412,945 M397,945 L397,836" id="Rectangle-2-Copy-11" stroke="#FF0000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5" fill-rule="nonzero" transform="translate(405.000000, 890.500000) scale(1, -1) rotate(-90.000000) translate(-405.000000, -890.500000) "></path>
+        <text id="iOS" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="42" y="539">iOS</tspan>
+        </text>
+        <text id="Android" font-family="TTNorms-Medium, TT Norms" font-size="22" font-weight="400" fill="#353F41">
+            <tspan x="42" y="962">Android</tspan>
+        </text>
+    </g>
+</svg>

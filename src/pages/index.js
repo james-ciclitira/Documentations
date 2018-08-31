@@ -13,6 +13,7 @@ import Dividers from '../components/System/Dividers.js'
 import List from '../components/System/List.js'
 import Footer from '../components/System/Footer.js'
 import Shadows from '../components/System/Shadows.js'
+import Alignment from '../components/System/Alignment.js'
 
 
 const IndexPage = () => (
@@ -36,6 +37,7 @@ const IndexPage = () => (
     <Rows/>
     <Dividers/>
     <Shadows/>
+    <Alignment/>
     <List/>
     <Footer/>
 
